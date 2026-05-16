@@ -1,0 +1,13 @@
+Unless explicitly stated otherwise, the original code and documentation authored for this project are licensed under the terms described in the LICENSE file in this repository.
+
+Third-party source code, pretrained model weights, datasets, and other external materials are not covered by the repository root license and remain subject to their respective original licenses.
+
+In particular:
+
+- Third-party code copied from or adapted from upstream repositories remains under its original license.
+- Pretrained model weights and upstream checkpoints remain under their original license terms.
+- The MVTec AD 2 dataset and any redistributed derivatives remain subject to the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+- Other datasets used by this project remain subject to their respective original terms and conditions.
+- Nothing in this repository's LICENSE grants any rights to third-party materials beyond what is granted by their original licenses.
+
+If a file, subdirectory, model asset, or resource is subject to different license terms, those terms take precedence for that material.
