@@ -210,7 +210,7 @@ python check_and_prepare_data_for_upload.py ./results/
 
 For licensing information, please see the `LICENSE` and `NOTICE` files.
 
-Unless explicitly stated otherwise, the original code and documentation authored for this project are released under **CC BY-NC 4.0**. Third-party code, pretrained weights, datasets, and other external materials remain subject to their respective original licenses.
+Unless explicitly stated otherwise, the original code authored for this project are released under **CC BY-NC 4.0**. Third-party code, pretrained weights, datasets, and other external materials remain subject to their respective original licenses.
 
 ## Acknowledgements
 
