@@ -90,7 +90,7 @@ Please make sure the project directory is organized correctly and that both `mvt
 The directory structure should look like this:
 
 ```text
-ISVL++
+isvl-plusplus
 ├── beit
 ├── datasets
 │   ├── mvtec_ad_2
