@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 > **Note**
-> All experiments were conducted on an NVIDIA GeForce RTX 4090 (24 GB). For the best reproducibility, we recommend using the same GPU and package versions. :contentReference[oaicite:0]{index=0}
+> All experiments were conducted on an NVIDIA GeForce RTX 4090 (24 GB). For the best reproducibility, we recommend using the same GPU and package versions. 
 
 ## Additional Notes on Disk Usage
 
