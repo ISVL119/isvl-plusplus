@@ -3,6 +3,7 @@
 We are releasing the paper first. The code will be made public after cleanup, approximately one day later, and no later than required by the competition rules, i.e., within three days after the submission deadline.
 
 **Update (2026.05.16):** We have released all the code.
+
 **Update (2026.05.17)**: We found that the previous `requirements.txt` was missing the `imagecodecs` package, which may cause an error when running:
 
 ```bash
