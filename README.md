@@ -19,6 +19,16 @@ Then rerun:
 ```bash
 python convert_tiff_to_float16.py 
 ```
+**Update (2026.05.22)**: We found an unexpected issue in the current `isvl_select_threshold.py`: the automatically selected threshold values may vary across different hardware environments.
+
+In our tests, two machines equipped with RTX 4090 GPU produced consistent threshold values, while a machine equipped with an RTX 3090 produced different threshold values. We suspect that this may be related to numerical differences across GPU architectures, but we are still investigating the exact cause.
+
+Since the selected thresholds directly affect SegF1, we provide the threshold JSON file used with our pretrained weights for best reproducibility of our results:
+
+```text
+select_thresholds_json/final_thresholds_by_split.json
+```
+We will continue investigating the cause of this issue and fix it in a future update.
 
 **Paper Link:** [ISVL++](https://github.com/ISVL119/isvl-plusplus/blob/main/isvl++.pdf)
 
