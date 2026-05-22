@@ -150,7 +150,15 @@ python split_crop.py
 ```
 
 Then start from **Step 4: Model Inference** in `reproduce_result.sh`.
-
+You can skip **Step 5: Select Threshold** and directly use the provided threshold file:
+```text
+select_thresholds_json/final_thresholds_by_split.json
+```
+Move or copy it to the current working directory as:
+```text
+./final_thresholds_by_split.json
+```
+Then continue with **Step 6: Binary and Data post processing**.
 After the script finishes, the results will be generated in the current working directory.
 
 ### Option 2: Run the Full Reproduction Script
