@@ -150,6 +150,7 @@ python split_crop.py
 ```
 
 Then start from **Step 4: Model Inference** in `reproduce_result.sh`.
+
 You can skip **Step 5: Select Threshold** and directly use the provided threshold file:
 ```text
 select_thresholds_json/final_thresholds_by_split.json
