@@ -1,0 +1,34 @@
+{
+  "rice": {
+    "test_private": 15.50923676617176,
+    "test_private_mixed": 18.237899064206832
+  },
+  "fabric": {
+    "test_private": 17.361281081890844,
+    "test_private_mixed": 18.413343942420322
+  },
+  "can": {
+    "test_private": 18.257015410516264,
+    "test_private_mixed": 19.55143598793279
+  },
+  "fruit_jelly": {
+    "test_private": 21.62912615987043,
+    "test_private_mixed": 22.913251428513323
+  },
+  "sheet_metal": {
+    "test_private": 23.096861623643196,
+    "test_private_mixed": 23.452021739412203
+  },
+  "vial": {
+    "test_private": 16.492613122523714,
+    "test_private_mixed": 18.25566629961202
+  },
+  "walnuts": {
+    "test_private": 18.478703926293658,
+    "test_private_mixed": 23.191586308431017
+  },
+  "wallplugs": {
+    "test_private": 19.071680101497215,
+    "test_private_mixed": 21.38495969299055
+  }
+}
